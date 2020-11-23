@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<GlavniMenu>
+  <Admin>
+    <Oddelek Text="Nadzorna plošča financ" font="bold" align="center">
+      <Vrstica NavigateUrl="~/Pages/FinancialDasboard/FinancialControl.aspx" Linija="Kontrola financ" ImageUrl="~/Images/Arrow-right.png" />
+    </Oddelek>
+    <Oddelek Text="Finančna orodja" font="bold" align="center">
+      <Vrstica NavigateUrl="~/Pages/FinancialTools/FinancialTools.aspx" Linija="Finančno orodje" ImageUrl="~/Images/Arrow-right.png" />
+    </Oddelek>
+  </Admin>
+</GlavniMenu>
+
